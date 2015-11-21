@@ -1,0 +1,2 @@
+# namespace
+namespace rendering lib
